@@ -1,2 +1,4 @@
-# angel-f
-Go AI/Engine in it's beginning phase, currently plays slightly better than random play. WIP
+# open-angel
+Go AI/Engine in its beginning phase, currently plays slightly better than random play. WIP
+
+Uses a machine learning algorithm
